@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', '/');
+define('BASE_URL', '/comem-archidep-php-todo-exercise/');
 define('DB_USER', 'todolist');
 define('DB_PASS', 'extestGit2020');
 define('DB_NAME', 'todolist');
