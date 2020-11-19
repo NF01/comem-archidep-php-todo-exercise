@@ -2,7 +2,7 @@
 
 define('BASE_URL', '/comem-archidep-php-todo-exercise/');
 define('DB_USER', 'todolist');
-define('DB_PASS', 'extestGit2020');
+define('DB_PASS', 'changeMeNow');
 define('DB_NAME', 'todolist');
 define('DB_HOST', '127.0.0.1');
 define('DB_PORT', '3306');
