@@ -76,7 +76,7 @@ $items = $db->query($selectQuery);
 
 <html>
   <head>
-    <title>TodoList</title>
+    <title>A (wonderful) TodoList</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -98,7 +98,7 @@ $items = $db->query($selectQuery);
       <div class="navbar navbar-dark bg-dark shadow-sm">
         <div class="container d-flex justify-content-between">
           <a href="#" class="navbar-brand d-flex align-items-center">
-            <strong>A (wonderful) TodoList</strong>
+            <strong>TodoList</strong>
           </a>
         </div>
       </div>
